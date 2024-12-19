@@ -147,7 +147,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+test.ipynb
 # pytype static type analyzer
 .pytype/
 
@@ -156,6 +156,23 @@ cython_debug/
 
 #
 lightning_logs/
+NHiTS.ipynb
+test.ipynb
+electricityConsumptionAndProductioction.csv
+
+
+# kan_benchmark
+experiments/kan_benchmark/data/
+experiments/kan_benchmark/lightning_logs
+experiments/kan_benchmark/README.md
+experiments/kan_benchmark/environment.yml
+longhorizon/
+
+# long_horizon
+experiments/long_horizon/environment.yml
+experiments/long_horizon/lightning_logs
+experiments/long_horizon/README.md
+experiments/long_horizon/data/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can

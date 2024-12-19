@@ -1,0 +1,5 @@
+dataset,model,mae,smape,time
+M4-quarterly,KAN,603.0,5.36,187.0
+M4-quarterly,MLP,586.0,5.2,27.0
+M4-quarterly,NBEATS,589.0,5.14,26.0
+M4-quarterly,NHITS,588.0,5.14,30.0

@@ -1,0 +1,5 @@
+dataset,model,mae,smape,time
+M3-quarterly,KAN,565.0,5.18,97.0
+M3-quarterly,MLP,541.0,4.96,6.0
+M3-quarterly,NBEATS,543.0,4.89,6.0
+M3-quarterly,NHITS,558.0,5.07,6.0

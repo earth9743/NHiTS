@@ -1,0 +1,5 @@
+dataset,model,mae,smape,time
+M4-hourly,KAN,268.0,7.06,60.0
+M4-hourly,MLP,367.0,8.1,7.0
+M4-hourly,NBEATS,299.0,7.86,8.0
+M4-hourly,NHITS,270.0,8.37,8.0

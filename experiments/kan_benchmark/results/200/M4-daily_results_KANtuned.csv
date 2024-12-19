@@ -1,0 +1,5 @@
+dataset,model,mae,smape,time
+M4-daily,KAN,194.0,1.64,93.0
+M4-daily,MLP,184.0,1.56,12.0
+M4-daily,NBEATS,176.0,1.49,14.0
+M4-daily,NHITS,176.0,1.49,15.0
