@@ -14,7 +14,7 @@ OS : Sonoma 14.6.1
   3. pandas>=1.3.5 torch>=2.0.0 
   4. pytorch-lightning>=2.0.0 
   5. ray[tune]>=2.2.0 
-  6.optuna utilsforecast>=0.2.3
+  6. optuna utilsforecast>=0.2.3
 
 필요 dataset
   1. neuralforecast
