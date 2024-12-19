@@ -33,3 +33,5 @@ OS : Sonoma 14.6.1
      -- --dataset ['ETTh1', 'ETTh2', 'ETTm1', 'ETTm2']
      -- --horizon [96, 192, 336, 720]
      -- --num_samples 20 권장 (https://nixtlaverse.nixtla.io/neuralforecast/docs/tutorials/getting_started_complete.html) 참조
+
+출처 : https://github.com/Nixtla/neuralforecast
