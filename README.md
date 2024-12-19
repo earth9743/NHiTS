@@ -1,7 +1,9 @@
 # NHiTS
 
 실험 장비 : MacBook Pro 13-inch, M1, 2020
+
 사양 : Apple M1
+
 OS : Sonoma 14.6.1
 
 가상환경
